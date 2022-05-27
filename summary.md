@@ -13,7 +13,7 @@ Summary
 	*	notion、airtable
 	*	postman/apifox
 	*	github 与版本管理
-	*	多设备协作
+	*	工作流、多设备协作
 *	阅读
 	*	[读书](./read/book.md)
 	*	论文
