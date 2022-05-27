@@ -7,10 +7,11 @@
 
 ## 相关工具
 
-1. 个人笔记库 [Feynman 笔记](https://notes.bluetech.top/)、[Obsidian](https://obsidian.md/)
+1. 网页阅读笔记工具 [Feynman 笔记](https://notes.bluetech.top/)，为了更方便的阅读记录，我为自己开发的工具
+1. 笔记库 [Obsidian](https://obsidian.md/)
 2. [typora](https://typora.io/) 简洁舒适的 md 编辑器，后面会写一篇专门的文档探讨为什么要使用 md
 3. [github](https://github.com/) 存储托管，能精准空格的版本管理，关于的不是文件的变化，而是内容的变化
-4. 文档结构采用 [gitbook](https://www.gitbook.com/)
+4. 文档结构采用 [gitbook](https://www.gitbook.com/)，可根据需要发布为网站、制作电子书等
 
 
 
