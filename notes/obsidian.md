@@ -1,3 +1,4 @@
+## 使用思路
 因为我对这些都有过思考和尝试，因此也说几句，我的基本原则是选择适合自己的工具，不追求工具的完美。
 
 Roam 曾经是我的选项之一，被放弃的最大原因就是因为数据接口私有，被我解决放弃。我对笔记工具的要求有一条严格的红线，数据一定要和软件分离，基于通用协议的文件体系。
@@ -21,3 +22,25 @@ Roam 曾经是我的选项之一，被放弃的最大原因就是因为数据接
 
 
 BEM 命名：https://juejin.cn/post/7001777832682586119
+
+
+## 资料聚合
+
+插件：https://github.com/mrjackphil/obsidian-text-expand (基于软件搜索功能实现)
+安装后使用：
+1. 在 obsidian 中打开模板，ctrl（或 command） + p，输入 "Text expand:expand" ，或部分输入搜索后回车运行
+2. 预览 md 结果
+
+说明：
+1. path 匹配文件夹或文件名，content 匹配内容正文
+2. AND/OR 可以多重嵌套，必须大写
+3. `![[xxxxx]]`为内嵌，``[[xxxxx]]`为链接
+
+
+示例
+```expander
+path:(笔记 OR 思维) AND content:((思想 OR 原理 OR 历史) AND (工具 AND 软件))
+** $path **
+![[$filename]]
+```
+ 
