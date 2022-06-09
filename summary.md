@@ -9,10 +9,9 @@ Summary
     *    [懂点代码化身魔术师](./tools/diy.md)
     *    [使用工具应有的思路](./creat-distribution/how-use-tools.md)
 *	信息管理
-	*	[信息获取方式](notes/extract-info.md)：主动 + 被动
-	*	浏览器及插件
-	*	邮件 newsletter
-	*	RSS、微博/twitter：订阅
+	*	[信息获取方式](./notes/extract-info.md)：主动 + 被动
+	*	[浏览器及插件](./tools/browser.md)
+	*	[内容订阅方式及资源](./tools/subscribe.md)
 	*	[obsidian：双向链接的笔记工具](./notes/obsidian.md)
 	*	notion、airtable：个人数字化管理
 	*	postman/apifox：云时代的数据操控
@@ -20,9 +19,7 @@ Summary
 	*	[工作流、多设备协作](./notes/flow.md)
 *    阅读
      *	[读书](./read/book.md)
-     *	[论文](./read/papers.md)
      *	[网文](./read/web.md)
-     *	[邮件订阅](./read/newsletter.md)
 *	内容创作与分发
     *    文本
     

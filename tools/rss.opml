@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>色 subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="Six Colors" title="Six Colors" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="https://sixcolors.com"/>
+            <outline type="rss" text="清大彭明輝的部落格" title="清大彭明輝的部落格" xmlUrl="http://mhperng.blogspot.com/feeds/posts/default" htmlUrl="https://mhperng.blogspot.com/"/>
+            <outline type="rss" text="结绳志 Tying Knots" title="结绳志 Tying Knots" xmlUrl="https://tyingknots.net/feed/" htmlUrl="https://tyingknots.net"/>
+            <outline type="rss" text="商业内观" title="商业内观" xmlUrl="https://rss.zoepi.online/?format=rss" htmlUrl="http://rss.zoepi.online/"/>
+            <outline type="rss" text="生产力维基" title="生产力维基" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki"/>
+            <outline type="rss" text="KAIX.IN" title="KAIX.IN" xmlUrl="https://kaix.in/feed/" htmlUrl="https://kaix.in"/>
+            <outline type="rss" text="ChainFeeds精选" title="ChainFeeds精选" xmlUrl="https://www.chainfeeds.xyz/rss"/>
+            <outline type="rss" text="Wenson的隨筆網站" title="Wenson的隨筆網站" xmlUrl="http://feeds.feedburner.com/Wenson" htmlUrl="http://wensonyeh.blogspot.com/"/>
+            <outline type="rss" text="梁文道文集" title="梁文道文集" xmlUrl="http://feeds.feedburner.com/commentshk" htmlUrl="http://www.commentshk.com/"/>
+            <outline type="rss" text="杜思妥，也乎？斯記。" title="杜思妥，也乎？斯記。" xmlUrl="http://dostoe.blogspot.com/feeds/posts/default" htmlUrl="http://dostoe.blogspot.com/"/>
+            <outline type="rss" text="Hypercritical" title="Hypercritical" xmlUrl="http://hypercritical.co/feeds/main" htmlUrl="http://hypercritical.co/"/>
+            <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="https://daringfireball.net/"/>
+            <outline type="rss" text="Michael Tsai" title="Michael Tsai" xmlUrl="http://mjtsai.com/blog/feed/" htmlUrl="https://mjtsai.com/blog"/>
+            <outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="http://www.marginalrevolution.com/marginalrevolution/index.rdf" htmlUrl="http://marginalrevolution.com"/>
+            <outline type="rss" text="Tweets via dionysusZ on Inoreader" title="Tweets via dionysusZ on Inoreader" xmlUrl="https://www.inoreader.com/stream/user/1005425331/tag/Tweets" htmlUrl="https://www.inoreader.com/stream/user/1005425331/tag/Tweets/view/html"/>
+            <outline type="rss" text="ALL About RSS - Telegram Channel" title="ALL About RSS - Telegram Channel" xmlUrl="https://feeds.feedburner.com/AllAboutRSS" htmlUrl="https://t.me/s/aboutrss"/>
+            <outline type="rss" text="mirror collection via dionysusZ on Inoreader" title="mirror collection via dionysusZ on Inoreader" xmlUrl="https://www.inoreader.com/stream/user/1005425331/tag/mirror%20collection" htmlUrl="https://www.inoreader.com/stream/user/1005425331/tag/mirror%20collection/view/html"/>
+            <outline type="rss" text="Blog of Insanity (狂人日記)" title="Blog of Insanity (狂人日記)" xmlUrl="http://paulsin.blogspot.com/feeds/posts/default" htmlUrl="http://paulsin.blogspot.com/"/>
+            <outline type="rss" text="Techgnosis" title="Techgnosis" xmlUrl="http://techgnosis.com/feed/" htmlUrl="https://techgnosis.com"/>
+            <outline type="rss" text="BTC Study" title="BTC Study" xmlUrl="https://www.btcstudy.org/atom.xml" htmlUrl="https://www.btcstudy.org/"/>
+            <outline type="rss" text="DEX 周刊" title="DEX 周刊" xmlUrl="https://newsletter.dex.group/rss/" htmlUrl="https://newsletter.dex.group/"/>
+            <outline type="rss" text="多面體的雹子 polyhedron's blog" title="多面體的雹子 polyhedron's blog" xmlUrl="https://biopolyhedron.github.io/atom.xml" htmlUrl="https://biopolyhedron.github.io/"/>
+            <outline type="rss" text="Overcoming Bias" title="Overcoming Bias" xmlUrl="http://www.overcomingbias.com/feed" htmlUrl="http://www.overcomingbias.com"/>
+            <outline type="rss" text="Jedi's BLOG" title="Jedi's BLOG" xmlUrl="http://jedi.org/blog/index.xml" htmlUrl="http://Jedi.org/blog/"/>
+            <outline type="rss" text="BIE 别的" title="BIE 别的" xmlUrl="https://www.biede.com/feed/" htmlUrl="https://www.biede.com"/>
+            <outline type="rss" text="" title="" xmlUrl="http://www.paulgraham.com/rss.html"/>
+            <outline type="rss" text="julian.digital" title="julian.digital" xmlUrl="http://www.julian.digital/feed" htmlUrl="https://julian.digital"/>
+            <outline type="rss" text="余舜哲的 One Piece" title="余舜哲的 One Piece" xmlUrl="https://chocoluffy.com/atom.xml" htmlUrl="http://chocoluffy.com/"/>
+            <outline type="rss" text="zonble" title="zonble" xmlUrl="http://zonble.net/feed" htmlUrl="https://zonble.net"/>
+            <outline type="rss" text="龙爪槐守望者" title="龙爪槐守望者" xmlUrl="http://www.ftium4.com/rss.xml" htmlUrl="http://www.ftium4.com/"/>
+        </outline>
+    </body>
+</opml>
