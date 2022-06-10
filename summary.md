@@ -38,8 +38,8 @@ Summary
      *	[饮食](./health/diet.md)
      *	[跑步](./health/marathon.md)
 *    文章翻译
-     *	[-创意需要分享](./translations/ideas-share.md)
-     *	[-人们是如何思考的？](./translations/how-people-think.md)
-     *	[-为什么韦伯望远镜如此重要？](./translations/webb-telescope.md)
+     *	[创意需要共享](./translations/ideas-share.md)
+     *	[人们是如何思考的？](./translations/how-people-think.md)
+     *	[为什么韦伯望远镜如此重要？](./translations/webb-telescope.md)
 *    [推荐阅读](./share.md)
 
