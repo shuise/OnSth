@@ -25,13 +25,11 @@ Summary
     
     *    WordPress 与 MarsEdit
     
-    *    Markdown 与 Pandoc
-    
     *    块 block
+    
 *    工作实例
      *    [如何撰写技术文档](./works/rd-doc.md)
      *    [玩《猜画小歌》的技巧](./works/ai-guess.md)
-     *    沟通工具的使用：手机、邮件与聊天工具
 *    运动与身体调控
      *	[饮食](./health/diet.md)
      *	[跑步](./health/marathon.md)
