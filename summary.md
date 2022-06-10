@@ -14,15 +14,13 @@ Summary
 	*	[内容订阅方式及资源](./tools/subscribe.md)
 	*	[obsidian：双向链接的笔记工具](./notes/obsidian.md)
 	*	notion、airtable：个人数字化管理
-	*	postman/apifox：云时代的数据操控
-	*	github：多人协作与版本管理
+	*	[postman/apifox：云时代的数据操控](./tools/api.md)
+	*	[github：多人协作与版本管理](./tools/co-work.md)
 	*	[工作流、多设备协作](./notes/flow.md)
 *    阅读
      *	[读书](./read/book.md)
      *	[网文](./read/web.md)
 *	内容创作与分发
-    *    文本
-    
     *    http 协议
     
     *    WordPress 与 MarsEdit
