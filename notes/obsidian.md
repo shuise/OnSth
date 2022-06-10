@@ -44,7 +44,7 @@ BEM 命名：https://juejin.cn/post/7001777832682586119
 示例
 
 ```expander
-path:(笔记 OR 思维) AND content:((思想 OR 原理 OR 历史) AND (工具 AND 软件))
+path:(笔记 -思维) AND content:((思想 OR 原理 OR 历史) AND (工具 软件))
 ** $path **
 ![[$filename]]
 ```
